@@ -69,3 +69,7 @@ CREATE TABLE banksystem.users_info(
 <br/><br/>
 <img width="900" alt="Screen Shot 2022-01-31 at 16 39 59" src="https://user-images.githubusercontent.com/98641436/151757573-928f9106-e881-4bb5-9995-55566277fe31.png">
 <br/>
+
+#### データベース
+
+<img width="900" alt="Screen Shot 2022-02-01 at 13 21 08" src="https://user-images.githubusercontent.com/98641436/151912892-c1f0f974-dc0a-45dc-a72d-47ec5b6ef0f4.png">
