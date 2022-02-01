@@ -10,7 +10,12 @@
 - mac
 - Eclipse 2021-12
 - Java 1.8(JDK 8)
-## データベース設定コード
+## データベース設定
+
+### <設定>
+<img width="581" alt="Screen Shot 2022-02-01 at 13 44 27" src="https://user-images.githubusercontent.com/98641436/151914116-11cc12ce-1257-441f-b9d5-219fbdf549c5.png">
+
+### <コード>
 contacts
 ```mySQL
 CREATE TABLE banksystem.contacts(
@@ -20,6 +25,7 @@ CREATE TABLE banksystem.contacts(
 );
 
 ```
+
 
 users_info
 ```mySQL
